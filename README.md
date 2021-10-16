@@ -5,7 +5,7 @@ This article about my expiries as and SRE and DevOps. Let's install Python for s
 ## Installation
 Use settings.json in .vscode directory and change python path on your PC
 ```
-"python.pythonPath": "C:\\Users\\agrek\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+"python.pythonPath": "C:\\Users\\username\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
 ``` 
  
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask and flask_sqlite3.
