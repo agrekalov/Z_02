@@ -1,6 +1,6 @@
 # Install to Base
 
-This article about my expiries as and SRE and DevOps. Let's install Python for start application "flask-sqlite3-todo-crud"
+This article about my experience as and SRE and DevOps. Let's install Python for start application "flask-sqlite3-todo-crud"
 
 ## Installation
 Use settings.json in .vscode directory and change python path on your PC
