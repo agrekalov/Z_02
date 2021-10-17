@@ -1,6 +1,6 @@
 # Install to Base
 
-This article about my experience as and SRE and DevOps. Let's install Python for start application "flask-sqlite3-todo-crud". For more information I added diagrams file. This file has name is web_service.png. File diagram_app.py has code for generate web_service.png. 
+This article about my experience as SRE and DevOps. Let's install Python for start application "flask-sqlite3-todo-crud". For more information I added diagrams file. This file has name is web_service.png. File diagram_app.py has code for generate web_service.png. 
 
 ## Installation
 Use settings.json in .vscode directory and change python path on your PC
