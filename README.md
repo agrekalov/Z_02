@@ -5,11 +5,21 @@ This project about my experience as SRE and DevOps. Let's install IaC for our pr
 
 ## Installation
 
+``` 1```
 Installing Vagrant is extremely easy. Head over to the [Vagrant downloads page](https://releases.hashicorp.com/vagrant/2.2.18/vagrant_2.2.18_x86_64.msi) and get the appropriate installer or package for your platform. Install the package using standard procedures for your operating system.
-
 The installer will automatically add vagrant to your system path so that it is available in terminals. If it is not found, please try logging out and logging back in to your system (this is particularly necessary sometimes for Windows).
 
+```2```
+Installing [Virtual BOX](https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-Win.exe)
 
+```3```
+Make a new directory for this project.
+
+```bash
+$ mkdir Laba02
+$ cd Laba02
+$ vagrant init
+```
 
 Use settings.json in .vscode directory and change python path on your PC
 ```
@@ -25,9 +35,15 @@ py -m pip install flask-sqlalchemy
 ```
 
 ## Usage
-Clone git repo 
-
-
+Clone git repo on local mashine 
+```bash
+git clone https://github.com/agrekalov/Z_02.git
+```
+Get up vagrant envorment
+``` bash
+vagrant up
+```
+#
 ```python
 $ py app.py
 
